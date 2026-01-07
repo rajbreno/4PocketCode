@@ -144,10 +144,7 @@ You'll see something like `100.64.0.1` — **SAVE THIS!** This is your **Tailsca
 exit
 ```
 
-**Back in Termux (on phone), install SSH:**
-```
-pkg update && pkg install openssh -y
-```
+**Back in Termux (on phone), setup quick connect:**
 
 #### Option A: Quick Connect (Recommended)
 
