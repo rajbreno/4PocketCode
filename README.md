@@ -7,7 +7,7 @@
 **Run AI coding agents (OpenCode, Claude Code, Gemini CLI) in just $4 entirely from your phone.**
 
 **Why Cloud over Local?**
-- **Enough Power** - 2 vCPU, 4GB RAM, 40GB SSD (way faster than phone)
+- **Enough Power** - 2 vCPU, 4GB RAM, 40GB SSD
 - **Always On** - Server runs 24/7, keeps your dev environment ready
 - **No Storage Worries** - Phone storage stays free
 - **Private & Secure** - Tailscale VPN, no open ports
