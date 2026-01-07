@@ -4,7 +4,7 @@
 
 # $4PocketCode
 
-**Run AI coding agents on a $4/month Hetzner server — entirely from your Android phone.**
+**Run AI coding agents (OpenCode, Claude Code, Gemini CLI) in just $4 entirely from your phone.**
 
 **Why Cloud over Local?**
 - **Real Power** — 2 vCPU, 4GB RAM, 40GB SSD (way faster than phone)
